@@ -32,6 +32,8 @@
             <version>1.4.197</version>
             <scope>test</scope>
         </dependency>
+
+        <!--测试工具junit-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
